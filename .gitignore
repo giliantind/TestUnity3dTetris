@@ -1,0 +1,25 @@
+/Assembly-CSharp-Editor-vs.csproj
+/Assembly-CSharp-Editor.csproj
+/Assembly-CSharp-firstpass-vs.csproj
+/Assembly-CSharp-firstpass.csproj
+/Assembly-CSharp-vs.csproj
+/Assembly-CSharp.csproj
+/Assembly-UnityScript-firstpass-vs.unityproj
+/Assembly-UnityScript-firstpass.unityproj
+/Project-csharp.sln
+/Project.sln
+/Project.userprefs
+/Temp/
+/Obj/
+/UnityGenerated/
+/Library/
+
+# -------------[ OS generated ]------------------------ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
